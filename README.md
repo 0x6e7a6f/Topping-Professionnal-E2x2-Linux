@@ -23,6 +23,6 @@ Put the snd_usb_audio.conf file in :
 - Line output
 
 # Ressources
-
+- [Topping Professional E2x2 OTG documentation](https://topping.pro/downloads/e2x2_otg.pdf)
 - [PipeWire Virtual Devices documentation](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Virtual-Devices#virtual-devices)
 - [snd-usb-audio kernel module documentation](https://www.kernel.org/doc/html/v5.9/sound/alsa-configuration.html)
